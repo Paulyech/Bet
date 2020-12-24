@@ -1,0 +1,40 @@
+/* ./resources/css/app.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.card{
+    @apply bg-white rounded-lg overflow-hidden shadow-sm relative;
+}
+.badge{
+    @apply bg-red-400 text-white text-xs rounded-full p-2 absolute top-0 uppercase ml-2;
+}
+
+.btn-sm{
+    @apply  text-xs rounded-full uppercase py-2 px-3 font-bold cursor-pointer tracking-wide ;
+}
+.btn-lg{
+    @apply  w-full text-xs rounded-full uppercase py-2 px-3 font-bold cursor-pointer tracking-wide ;
+}
+.nav-link{
+    @apply lg:p-4 py-3 px-0 border-b-2 border-transparent block hover:border-indigo-500 capitalize hover:text-white;
+}
+.project-title{
+    @apply bg-red-400 text-white uppercase font-bold border-2 border-white rounded-lg;
+}
+.section-title{
+    @apply flex justify-center text-white text-2xl font-bold uppercase mt-8 ;
+}
+.form-group{
+    @apply bg-white rounded-lg p-6;
+}
+.form-control{
+    @apply block capitalize rounded-md px-3 w-full border-4 border-blue-200 focus:border-blue-400 h-8 focus:outline-none focus:bg-gray-100 ;
+}
+.form-textarea{
+    @apply block h-auto border-4 rounded-md focus:bg-gray-100 border-blue-200 focus:outline-none focus:border-blue-400;
+}
+.alert{
+    @apply relative mb-4 border-transparent border-2 px-3 rounded-md;
+}
