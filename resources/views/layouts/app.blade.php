@@ -24,7 +24,7 @@
     <body class="antialiased text-gray-600  ">
         <div>
          @include('inc.navbar')
-             <main class="text-white  ">    
+             <main class="text-white bg-gray-900 ">    
                  @yield('content')
              </main>  
           @include('inc.footer')

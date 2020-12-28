@@ -31172,12 +31172,24 @@ video {
 
 .card{
   --tw-bg-opacity: 1;
-  background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
+  background-color: rgba(75, 85, 99, var(--tw-bg-opacity));
   border-radius: 0.5rem;
   overflow: hidden;
   position: relative;
   --tw-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+  --tw-text-opacity: 1;
+  color: rgba(17, 24, 39, var(--tw-text-opacity));
+  width: 20rem;
+}
+
+.card-header{
+  font-weight: 700;
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+  margin-left: 6rem;
+  text-transform: uppercase;
+  vertical-align: middle;
 }
 
 .badge{
@@ -31201,6 +31213,13 @@ video {
   font-weight: 700;
   font-size: 0.75rem;
   line-height: 1rem;
+}
+
+.btn-sm:hover {
+  opacity: 0.5;
+}
+
+.btn-sm {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
   padding-left: 0.75rem;
@@ -31358,6 +31377,17 @@ video {
   padding-left: 0.75rem;
   padding-right: 0.75rem;
   position: relative;
+}
+
+.img-fluid{
+  height: 10rem;
+  width: 100%;
+}
+
+.span-text{
+  font-weight: 600;
+  --tw-text-opacity: 1;
+  color: rgba(229, 231, 235, var(--tw-text-opacity));
 }
 
 @media (min-width: 640px) {

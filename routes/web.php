@@ -18,3 +18,7 @@ use Illuminate\Support\Facades\Route;
 // });
 
 Route::get('/',[App\Http\Controllers\pagesController::class,'index'])->name('index');
+Route::get('/prediction',[App\Http\Controllers\pagesController::class,'prediction'])->name('prediction');
+Route::get('/bet',[App\Http\Controllers\pagesController::class,'bet'])->name('bet');
+Route::get('/stream',[App\Http\Controllers\pagesController::class,'stream'])->name('stream');
+Route::get('/odd',[App\Http\Controllers\pagesController::class,'odd'])->name('odd');

@@ -17,19 +17,22 @@
             <nav>
                 <ul class="lg:flex justify-between items-center pt-4 lg:pt-0 text-base text-gray-400">
                     <li>
-                        <a href="#" class="nav-link">home</a>
+                        <a href="/" class="nav-link">home</a>
                     </li>
                     <li>
-                        <a href="#about" class="nav-link">about</a>
+                        <a href="/prediction" class="nav-link">prediction sites</a>
                     </li>
                     <li>
-                        <a href="#services" class="nav-link">services</a>
+                        <a href="/bet" class="nav-link">betting sites</a>
                     </li>
                     <li>
-                        <a href="#portfolio" class="nav-link">portfolio</a>
+                        <a href="/stream" class="nav-link">streaming sites</a>
                     </li>
                     <li>
-                        <a href="#contact" class="nav-link">contact</a>
+                        <a href="/odd" class="nav-link">odds</a>
+                    </li>
+                    <li>
+                        <a href="/contact" class="nav-link">contacts</a>
                     </li>
                     
                 </ul>
