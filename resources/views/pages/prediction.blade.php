@@ -12,24 +12,27 @@
        <div class="grid lg:grid-cols-3 gap-2  justify-items-center mt-8" >
 
         {{-- CARDS --}}
+
+            <div class="card ">
+                <span class="card-header">betensured</span>
+                <img src="../images/betensured.jpg" alt="" class="img-fluid" >
+                <span class="span-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.</span>
+                <div class="mt-10 ">
+                    <a href="https://www.betensured.com/" target="_blank"   class="btn-sm bg-gray-300">view site</a>
+                </div>
+            </div>
+
+
+
            <div class="card h-80">
                <span class="card-header ">adibet</span>
                <img src="../images/adibet.jpg" alt="image/sportpesa" class="img-fluid">
                <span class="span-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.</span>
                <div class="mt-10 ">
-                   <a href="" target="_blank"  class="btn-sm bg-gray-300">view site</a>
+                   <a href="https://www.adibet.com/" target="_blank"  class="btn-sm bg-gray-300">view site</a>
                </div>
            </div>
 
-
-           <div class="card ">
-               <span class="card-header">betensured</span>
-               <img src="../images/betensured.jpg" alt="" class="img-fluid" >
-               <span class="span-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.</span>
-               <div class="mt-10 ">
-                 <a href="" target="_blank"   class="btn-sm bg-gray-300">view site</a>
-              </div>
-           </div>
 
            
            <div class="card">
@@ -37,7 +40,7 @@
                <img src="../images/freesuper.png" alt="" class="img-fluid">
                <span class="span-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.</span>
                <div class="mt-10 ">
-                <a href=""  target="_blank"  class="btn-sm bg-gray-300" >view site</a>
+                     <a href="https://www.freesupertips.com/"  target="_blank"  class="btn-sm bg-gray-300" >view site</a>
                </div>
            </div>
 
@@ -47,7 +50,7 @@
                <img src="../images/solopredict.png" alt="" class="img-fluid">
                <span class="span-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.</span>
                <div class="mt-10 ">
-                <a href="https://www.solopredict.com/" target="_blank" class="btn-sm bg-gray-300">view site</a>
+                     <a href="https://www.solopredict.com/" target="_blank" class="btn-sm bg-gray-300">view site</a>
                </div>
            </div>
 
@@ -57,7 +60,7 @@
                <img src="../images/betzodiac.png" alt="" class="img-fluid">
                <span class="span-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.</span>
                <div class="mt-10 ">
-                <a href="https://betzodiac.blogspot.com/"  target="_blank" class="btn-sm bg-gray-300">view site</a>
+                    <a href="https://betzodiac.blogspot.com/"  target="_blank" class="btn-sm bg-gray-300">view site</a>
                </div>
            </div>
 
@@ -67,7 +70,7 @@
                <img src="../images/soccerplatform.png" alt="" class="img-fluid">
                <span class="span-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.</span>
                <div class="mt-10 ">
-                <a href="https://soccerplatform.me/soccer-picks/" target="_blank" class="btn-sm bg-gray-300">view site</a>
+                    <a href="https://soccerplatform.me/soccer-picks/" target="_blank" class="btn-sm bg-gray-300">view site</a>
                </div>
            </div>
 
@@ -77,7 +80,7 @@
                <img src="../images/Matchplug.png" alt="" class="img-fluid">
                <span class="span-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.</span>
                <div class="mt-10 ">
-                <a href="https://matchplug.com/" target="_blank" class="btn-sm bg-gray-300">view site</a>
+                    <a href="https://matchplug.com/" target="_blank" class="btn-sm bg-gray-300">view site</a>
                </div>
            </div>
 
@@ -87,7 +90,7 @@
                <img src="../images/1960tips.jpg" alt="" class="img-fluid">
                <span class="span-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.</span>
                <div class="mt-10 ">
-                <a href="https://www.1960tips.com/" target="_blank" class="btn-sm bg-gray-300">view site</a>
+                    <a href="https://www.1960tips.com/" target="_blank" class="btn-sm bg-gray-300">view site</a>
                </div>
            </div>
 
@@ -97,7 +100,7 @@
                <img src="../images/mightytips.jpg" alt="" class="img-fluid">
                <span class="span-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.</span>
                <div class="mt-10 ">
-                <a href="https://www.mightytips.com/" target="_blank" class="btn-sm bg-gray-300">view site</a>
+                    <a href="https://www.mightytips.com/" target="_blank" class="btn-sm bg-gray-300">view site</a>
                </div>
            </div>
            
