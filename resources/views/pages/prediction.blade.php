@@ -77,7 +77,7 @@
 
            <div class="card">
                <span class="card-header">Matchplug</span>
-               <img src="../images/Matchplug.png" alt="" class="img-fluid">
+               <img src="../images/matchplug.jpg" alt="" class="img-fluid">
                <span class="span-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.</span>
                <div class="mt-10 ">
                     <a href="https://matchplug.com/" target="_blank" class="btn-sm bg-gray-300">view site</a>
