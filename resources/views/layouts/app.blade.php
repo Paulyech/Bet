@@ -21,10 +21,10 @@
             }
         </style>
     </head>
-    <body class="antialiased text-gray-600 bg-gray-900 ">
+    <body class="antialiased text-gray-600  ">
         <div>
          @include('inc.navbar')
-             <main class="py-6 px-12 ">    
+             <main class="text-white  ">    
                  @yield('content')
              </main>  
           @include('inc.footer')
