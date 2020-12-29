@@ -19,7 +19,9 @@
             #menu-toggle:checked + #menu{
                 display: block;
             }
+            
         </style>
+        
     </head>
     <body class="antialiased text-gray-600  ">
         <div>

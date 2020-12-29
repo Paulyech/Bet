@@ -31192,6 +31192,11 @@ video {
   vertical-align: middle;
 }
 
+.card-link{
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
 .badge{
   --tw-bg-opacity: 1;
   background-color: rgba(248, 113, 113, var(--tw-bg-opacity));

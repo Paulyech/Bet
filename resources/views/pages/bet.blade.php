@@ -20,18 +20,18 @@
             <span class="card-header">sportpesa</span>
             <img src="../images/sportpesa.jpg" alt="" class="img-fluid" >
             <span class="span-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.</span>
-            <div class="mt-10 ">
+            <div class="card-link ">
                 <a href="https://www.betensured.com/" target="_blank"   class="btn-sm bg-gray-300">view site</a>
             </div>
         </div>
 
 
 
-       <div class="card h-80">
+       <div class="card ">
            <span class="card-header ">betway</span>
            <img src="../images/betway.jpg" alt="image/sportpesa" class="img-fluid">
            <span class="span-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.</span>
-           <div class="mt-10 ">
+           <div class="card-link ">
                <a href="https://www.adibet.com/" target="_blank"  class="btn-sm bg-gray-300">view site</a>
            </div>
        </div>
@@ -42,7 +42,7 @@
            <span class="card-header">betika</span>
            <img src="../images/betika.jpg" alt="" class="img-fluid">
            <span class="span-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.</span>
-           <div class="mt-10 ">
+           <div class="card-link ">
                  <a href="https://www.freesupertips.com/"  target="_blank"  class="btn-sm bg-gray-300" >view site</a>
            </div>
        </div>
@@ -52,7 +52,7 @@
            <span class="card-header">betpawa</span>
            <img src="../images/betpawa.jpg" alt="" class="img-fluid">
            <span class="span-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.</span>
-           <div class="mt-10 ">
+           <div class="card-link ">
                  <a href="https://www.solopredict.com/" target="_blank" class="btn-sm bg-gray-300">view site</a>
            </div>
        </div>
@@ -62,7 +62,7 @@
            <span class="card-header">22bet</span>
            <img src="../images/22bet.png" alt="" class="img-fluid">
            <span class="span-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.</span>
-           <div class="mt-10 ">
+           <div class="card-link ">
                 <a href="https://betzodiac.blogspot.com/"  target="_blank" class="btn-sm bg-gray-300">view site</a>
            </div>
        </div>
@@ -72,7 +72,7 @@
            <span class="card-header"> bet365</span>
            <img src="../images/bet365.png" alt="" class="img-fluid">
            <span class="span-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.</span>
-           <div class="mt-10 ">
+           <div class="card-link ">
                 <a href="https://soccerplatform.me/soccer-picks/" target="_blank" class="btn-sm bg-gray-300">view site</a>
            </div>
        </div>
@@ -82,7 +82,7 @@
            <span class="card-header">betyetu</span>
            <img src="../images/betyetu.jpg" alt="" class="img-fluid">
            <span class="span-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.</span>
-           <div class="mt-10 ">
+           <div class="card-link ">
                 <a href="https://matchplug.com/" target="_blank" class="btn-sm bg-gray-300">view site</a>
            </div>
        </div>
@@ -92,7 +92,7 @@
            <span class="card-header">dafabet</span>
            <img src="../images/dafabet.jpg" alt="" class="img-fluid">
            <span class="span-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.</span>
-           <div class="mt-10 ">
+           <div class="card-link ">
                 <a href="https://www.1960tips.com/" target="_blank" class="btn-sm bg-gray-300">view site</a>
            </div>
        </div>
@@ -102,7 +102,7 @@
            <span class="card-header">sportybet</span>
            <img src="../images/sportybet.png" alt="" class="img-fluid">
            <span class="span-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.</span>
-           <div class="mt-10 ">
+           <div class="card-link ">
                 <a href="https://www.mightytips.com/" target="_blank" class="btn-sm bg-gray-300">view site</a>
            </div>
        </div>
@@ -113,7 +113,7 @@
            <span class="card-header">bet winner</span>
            <img src="../images/betwinner.jpg" alt="" class="img-fluid">
            <span class="span-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.</span>
-           <div class="mt-10 ">
+           <div class="card-link ">
                 <a href="https://matchplug.com/" target="_blank" class="btn-sm bg-gray-300">view site</a>
            </div>
        </div>
@@ -123,7 +123,7 @@
            <span class="card-header">melbet</span>
            <img src="../images/melbet.jpg" alt="" class="img-fluid">
            <span class="span-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.</span>
-           <div class="mt-10 ">
+           <div class="card-link ">
                 <a href="https://www.1960tips.com/" target="_blank" class="btn-sm bg-gray-300">view site</a>
            </div>
        </div>
@@ -133,7 +133,7 @@
            <span class="card-header">mcheza</span>
            <img src="../images/mcheza.png" alt="" class="img-fluid">
            <span class="span-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.</span>
-           <div class="mt-10 ">
+           <div class="card-link ">
                 <a href="https://www.mightytips.com/" target="_blank" class="btn-sm bg-gray-300">view site</a>
            </div>
        </div>

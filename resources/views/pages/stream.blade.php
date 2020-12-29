@@ -16,22 +16,22 @@
 
     {{-- CARDS --}}
 
-        <div class="card ">
+        <div class="card">
             <span class="card-header">sky sport</span>
             <img src="../images/sky.jpg" alt="" class="img-fluid" >
             <span class="span-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.</span>
-            <div class="mt-10 ">
+            <div class="card-link">
                 <a href="https://www.betensured.com/" target="_blank"   class="btn-sm bg-gray-300">view site</a>
             </div>
         </div>
 
 
 
-       <div class="card h-80">
+       <div class="card ">
            <span class="card-header ">bein</span>
            <img src="../images/bein.png" alt="image/bein" class="img-fluid">
            <span class="span-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.</span>
-           <div class="mt-10 ">
+           <div class="card-link ">
                <a href="https://www.adibet.com/" target="_blank"  class="btn-sm bg-gray-300">view site</a>
            </div>
        </div>
@@ -42,7 +42,7 @@
            <span class="card-header">BT sports</span>
            <img src="../images/bt.png" alt="" class="img-fluid">
            <span class="span-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.</span>
-           <div class="mt-10 ">
+           <div class="card-link ">
                  <a href="https://www.freesupertips.com/"  target="_blank"  class="btn-sm bg-gray-300" >view site</a>
            </div>
        </div>
@@ -52,7 +52,7 @@
            <span class="card-header">espn</span>
            <img src="../images/espn.png" alt="" class="img-fluid">
            <span class="span-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.</span>
-           <div class="mt-10 ">
+           <div class="card-link ">
                  <a href="https://www.solopredict.com/" target="_blank" class="btn-sm bg-gray-300">view site</a>
            </div>
        </div>
@@ -62,7 +62,7 @@
            <span class="card-header">streaam2watch</span>
            <img src="../images/stream2watch.png" alt="" class="img-fluid">
            <span class="span-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.</span>
-           <div class="mt-10 ">
+           <div class="card-link ">
                 <a href="https://betzodiac.blogspot.com/"  target="_blank" class="btn-sm bg-gray-300">view site</a>
            </div>
        </div>
@@ -72,7 +72,7 @@
            <span class="card-header"> live soccer tv</span>
            <img src="../images/live.png" alt="" class="img-fluid">
            <span class="span-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.</span>
-           <div class="mt-10 ">
+           <div class="card-link ">
                 <a href="https://soccerplatform.me/soccer-picks/" target="_blank" class="btn-sm bg-gray-300">view site</a>
            </div>
        </div>
@@ -82,7 +82,7 @@
            <span class="card-header">sonny liv</span>
            <img src="../images/sonny.jpg" alt="" class="img-fluid">
            <span class="span-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.</span>
-           <div class="mt-10 ">
+           <div class="card-link ">
                 <a href="https://matchplug.com/" target="_blank" class="btn-sm bg-gray-300">view site</a>
            </div>
        </div>
@@ -92,7 +92,7 @@
            <span class="card-header">nbc sports</span>
            <img src="../images/nbc.png" alt="" class="img-fluid">
            <span class="span-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.</span>
-           <div class="mt-10 ">
+           <div class="card-link ">
                 <a href="https://www.1960tips.com/" target="_blank" class="btn-sm bg-gray-300">view site</a>
            </div>
        </div>
@@ -102,7 +102,7 @@
            <span class="card-header">sportrar tv</span>
            <img src="../images/sportrar.jpg" alt="" class="img-fluid">
            <span class="span-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.</span>
-           <div class="mt-10 ">
+           <div class="card-link ">
                 <a href="https://www.mightytips.com/" target="_blank" class="btn-sm bg-gray-300">view site</a>
            </div>
        </div>
