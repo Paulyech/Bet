@@ -28,7 +28,31 @@
          @include('inc.navbar')
              <main class="text-white bg-gray-900 ">    
                  @yield('content')
-             </main>  
+             </main> 
+             <script>
+        
+                const showContent = document.querySelector('#show-content');
+                const overlay = document.querySelector('#overlay');
+                const closeBtn = document.querySelector('#close-btn');
+                const cancelBtn = document.querySelector('#cancel-btn');
+                
+                showContent.addEventListener('click', ()=>{
+                    overlay.classList.remove('hidden')
+                    overlay.classList.add('flex') 
+    
+                })
+                closeBtn.addEventListener('click', ()=>{
+                    overlay.classList.add('hidden')
+                    overlay.classList.remove('flex') 
+    
+                })
+                cancelBtn.addEventListener('click', ()=>{
+                    overlay.classList.add('hidden')
+                    overlay.classList.remove('flex') 
+    
+                })
+          
+        </script>
           @include('inc.footer')
  
        </div>
