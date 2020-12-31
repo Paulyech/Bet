@@ -291,7 +291,7 @@
             {{-- CARD 5 --}}
        <div class="card">
            <span class="card-header"> bet365</span>
-           <img src="../images/bet365.png" alt="" class="img-fluid">
+           <img src="../images/bet365.jpg" alt="" class="img-fluid">
            <span class="span-text">Bet365 is hands down one of the best bookmakers in the world. They have millions of customers worldwide and are active in so many different countries. </span>
 
             {{-- POPUP --}}
