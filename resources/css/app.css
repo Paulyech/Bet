@@ -5,7 +5,7 @@
 
 
 .card{
-    @apply text-gray-900 w-80 bg-gray-600 rounded-lg overflow-hidden shadow-sm relative  ;
+    @apply text-gray-900 w-80 bg-gray-600 rounded-lg overflow-hidden shadow-sm relative h-full ;
 }
 .card-header{
     @apply uppercase font-bold align-middle ml-24 text-lg;

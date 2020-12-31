@@ -15,8 +15,8 @@
        <div class="grid lg:grid-cols-3 gap-2  justify-items-center mt-8" >
 
         {{-- CARDS --}}
-
-            <div class="card h-full">
+                    {{-- CARD 0 --}}
+            <div class="card">
                 <span class="card-header">betensured</span>
                 <img src="../images/betensured.jpg" alt="" class="img-fluid" >
                 <span class="span-text">Betensured is a top football prediction website that guarantees real football predictions on every market available. Every day of the week, our team of expert analysts and statisticians are working tirelessly to guarantee our daily returns on their stake.</span>
@@ -37,20 +37,18 @@
                         
                           
 
-                        <svg class="h-5 w-5 cursor-pointer hover:bg-gray-600" id="close-btn" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+                        <svg class="h-5 w-5 cursor-pointer hover:bg-gray-400 rounded" id="close-btn" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
                             <path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd" />
                           </svg>
                           
                     </div>
                     <div class="font-semibold">
                         <p >
-                            Betensured is one of the biggest operating football prediction website. It is the best source of well researched football statistics, analysis and predictions, sure 2 odds, sure 3 odds, football prediction site. They offer accurate predictions to enable their subscribers make substantial profit.There is a huge team behind the operations of this site, and there are hundreds if not thousands of football punters who come to this site on a daily basis in search of free tips. 
+                            Betensured is one of the biggest operating football prediction website. It is the best source of well researched football statistics, analysis and predictions, sure 2 odds, sure 3 odds, football prediction site. <br> <br> They offer accurate predictions to enable their subscribers make substantial profit.There is a huge team behind the operations of this site, and there are hundreds if not thousands of football punters who come to this site on a daily basis in search of free tips. 
                         </p>
-                        <p class="pt-12"><span class="text-black font-bold">frequency:</span>8 free tips per day</p>
+                        <p class="mt-8"><span class="text-black font-bold">frequency:</span>8 free tips per day</p>
                     </div>
-                    <div class="flex justify-self-auto items-baseline pt" id="cancel-btn">
-                        <button class="bg-gray-200 rounded-sm hover:bg-gray-400">close </button>
-                    </div>
+                    
                 </div> 
                </div>
                {{-- POPUP END --}}
@@ -64,7 +62,7 @@
             </div>
            
            
-
+                    {{-- CARD 1 --}}
            <div class="card ">
                <span class="card-header ">adibet</span>
                <img src="../images/adibet.jpg" alt="image/sportpesa" class="img-fluid">
@@ -73,8 +71,8 @@
 
                 {{-- POPUP --}}
 
-                <button class="rounded capitalize cursor-pointer hover:text-red-400 " id="show-content">read more</button>
-               <div class="bg-red-300 bg-opacity-50 absolute  inset-0  items-center hidden justify-center" id="overlay">
+                <button class="rounded capitalize cursor-pointer hover:text-red-400 " id="show-content1">read more</button>
+               <div class="bg-red-300 bg-opacity-50 absolute  inset-0  items-center hidden justify-center" id="overlay1">
                    <div class="bg-gray-600 bg-opacity-95 max-w-sm rounded shadow-xl h-full">
                     <div class=" flex justify-between items-center">
                         <div class="flex">
@@ -87,20 +85,18 @@
                         
                           
 
-                        <svg class="h-5 w-5 cursor-pointer hover:bg-gray-600" id="close-btn" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+                        <svg class="h-5 w-5 cursor-pointer hover:bg-gray-400 rounded" id="close-btn1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
                             <path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd" />
                           </svg>
                           
                     </div>
                     <div class="font-semibold">
                         <p >
-                            Betensured is one of the biggest operating football prediction website. It is the best source of well researched football statistics, analysis and predictions, sure 2 odds, sure 3 odds, football prediction site. They offer accurate predictions to enable their subscribers make substantial profit.There is a huge team behind the operations of this site, and there are hundreds if not thousands of football punters who come to this site on a daily basis in search of free tips. 
+                            Soccer Predictions, Adibet, Sure Bet Matches, Correct Scores, Free Tips, Today Best Tip1x2, Winning Odds.
                         </p>
-                        <p class="pt-12"><span class="text-black font-bold">frequency:</span>8 free tips per day</p>
+                        <p class="pt-8"><span class="text-black font-bold">frequency:</span>minimum of 10 free tips per day</p>
                     </div>
-                    <div class="flex justify-self-auto items-baseline pt" id="cancel-btn">
-                        <button class="bg-gray-200 rounded-sm hover:bg-gray-400">close </button>
-                    </div>
+                    
                 </div> 
                </div>
                {{-- POPUP END --}}
@@ -113,7 +109,7 @@
           
 
 
-           
+                    {{-- CARD 2 --}}
            <div class="card">
                <span class="card-header">freesupertips</span>
                <img src="../images/freesuper.png" alt="" class="img-fluid">
@@ -121,8 +117,8 @@
 
                 {{-- POPUP --}}
 
-                <button class="rounded capitalize cursor-pointer hover:text-red-400 " id="show-content">read more</button>
-               <div class="bg-red-300 bg-opacity-50 absolute  inset-0  items-center hidden justify-center" id="overlay">
+                <button class="rounded capitalize cursor-pointer hover:text-red-400 " id="show-content2">read more</button>
+               <div class="bg-red-300 bg-opacity-50 absolute  inset-0  items-center hidden justify-center" id="overlay2">
                    <div class="bg-gray-600 bg-opacity-95 max-w-sm rounded shadow-xl h-full">
                     <div class=" flex justify-between items-center">
                         <div class="flex">
@@ -130,25 +126,23 @@
                                 <path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd" />
                                 
                               </svg>
-                              <h4 class="capitalize font-bold">south africa</h4>
+                              <h4 class="capitalize font-bold">UK</h4>
                         </div>
                         
                           
 
-                        <svg class="h-5 w-5 cursor-pointer hover:bg-gray-600" id="close-btn" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+                        <svg class="h-5 w-5 cursor-pointer hover:bg-gray-400 rounded" id="close-btn2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
                             <path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd" />
                           </svg>
                           
                     </div>
                     <div class="font-semibold">
                         <p >
-                            Betensured is one of the biggest operating football prediction website. It is the best source of well researched football statistics, analysis and predictions, sure 2 odds, sure 3 odds, football prediction site. They offer accurate predictions to enable their subscribers make substantial profit.There is a huge team behind the operations of this site, and there are hundreds if not thousands of football punters who come to this site on a daily basis in search of free tips. 
+                            Get your football accumulator tips free! View our expert's football. <br> Free football predictions and betting previews for every game. <br>The aim of a correct score double tip is to guess two correct scores
                         </p>
-                        <p class="pt-12"><span class="text-black font-bold">frequency:</span>8 free tips per day</p>
+                        <p class="mt-8"><span class="text-black font-bold">frequency:</span>minimum of 12 free tips per day</p>
                     </div>
-                    <div class="flex justify-self-auto items-baseline pt" id="cancel-btn">
-                        <button class="bg-gray-200 rounded-sm hover:bg-gray-400">close </button>
-                    </div>
+                    
                 </div> 
                </div>
                {{-- POPUP END --}}
@@ -160,6 +154,8 @@
            </div>
 
 
+
+                {{-- CARD 3 --}}
            <div class="card">
                <span class="card-header">solopredict.com</span>
                <img src="../images/solopredict.png" alt="" class="img-fluid">
@@ -168,8 +164,8 @@
 
                 {{-- POPUP --}}
 
-                <button class="rounded capitalize cursor-pointer hover:text-red-400 " id="show-content">read more</button>
-               <div class="bg-red-300 bg-opacity-50 absolute  inset-0  items-center hidden justify-center" id="overlay">
+                <button class="rounded capitalize cursor-pointer hover:text-red-400 " id="show-content3">read more</button>
+               <div class="bg-red-300 bg-opacity-50 absolute  inset-0  items-center hidden justify-center" id="overlay3">
                    <div class="bg-gray-600 bg-opacity-95 max-w-sm rounded shadow-xl h-full">
                     <div class=" flex justify-between items-center">
                         <div class="flex">
@@ -177,25 +173,23 @@
                                 <path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd" />
                                 
                               </svg>
-                              <h4 class="capitalize font-bold">south africa</h4>
+                              <h4 class="capitalize font-bold">USA</h4>
                         </div>
                         
                           
 
-                        <svg class="h-5 w-5 cursor-pointer hover:bg-gray-600" id="close-btn" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+                        <svg class="h-5 w-5 cursor-pointer hover:bg-gray-400 rounded" id="close-btn3" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
                             <path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd" />
                           </svg>
                           
                     </div>
                     <div class="font-semibold">
                         <p >
-                            Betensured is one of the biggest operating football prediction website. It is the best source of well researched football statistics, analysis and predictions, sure 2 odds, sure 3 odds, football prediction site. They offer accurate predictions to enable their subscribers make substantial profit.There is a huge team behind the operations of this site, and there are hundreds if not thousands of football punters who come to this site on a daily basis in search of free tips. 
+                            SoloPredict provides betting tips on upcoming soccer games. It is ideal for anyone looking to make informed bets on practically any football . 
                         </p>
-                        <p class="pt-12"><span class="text-black font-bold">frequency:</span>8 free tips per day</p>
+                        <p class="mt-8"><span class="text-black font-bold">frequency:</span>8 free tips per day</p>
                     </div>
-                    <div class="flex justify-self-auto items-baseline pt" id="cancel-btn">
-                        <button class="bg-gray-200 rounded-sm hover:bg-gray-400">close </button>
-                    </div>
+                    
                 </div> 
                </div>
                {{-- POPUP END --}}
@@ -208,7 +202,7 @@
 
 
 
-
+                {{-- CARD 4 --}}
            <div class="card">
                <span class="card-header">Betzodiac</span>
                <img src="../images/betzodiac.png" alt="" class="img-fluid">
@@ -217,8 +211,8 @@
 
                 {{-- POPUP --}}
 
-                <button class="rounded capitalize cursor-pointer hover:text-red-400 " id="show-content">read more</button>
-               <div class="bg-red-300 bg-opacity-50 absolute  inset-0  items-center hidden justify-center" id="overlay">
+                <button class="rounded capitalize cursor-pointer hover:text-red-400 " id="show-content4">read more</button>
+               <div class="bg-red-300 bg-opacity-50 absolute  inset-0  items-center hidden justify-center" id="overlay4">
                    <div class="bg-gray-600 bg-opacity-95 max-w-sm rounded shadow-xl h-full">
                     <div class=" flex justify-between items-center">
                         <div class="flex">
@@ -226,25 +220,24 @@
                                 <path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd" />
                                 
                               </svg>
-                              <h4 class="capitalize font-bold">south africa</h4>
+                              <h4 class="capitalize font-bold">lagos</h4>
                         </div>
                         
                           
 
-                        <svg class="h-5 w-5 cursor-pointer hover:bg-gray-600" id="close-btn" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+                        <svg class="h-5 w-5 cursor-pointer hover:bg-gray-400 rounded" id="close-btn4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
                             <path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd" />
                           </svg>
                           
                     </div>
                     <div class="font-semibold">
                         <p >
-                            Betensured is one of the biggest operating football prediction website. It is the best source of well researched football statistics, analysis and predictions, sure 2 odds, sure 3 odds, football prediction site. They offer accurate predictions to enable their subscribers make substantial profit.There is a huge team behind the operations of this site, and there are hundreds if not thousands of football punters who come to this site on a daily basis in search of free tips. 
+                            Only the best free betting tips and predictions exclusively at Betzoid. Who to bet on today to beat the bookie? Sure expert sports betting tips!
                         </p>
-                        <p class="pt-12"><span class="text-black font-bold">frequency:</span>8 free tips per day</p>
+                        <p class="mt-8"><span class="text-black font-bold">frequency:</span>8 free tips per day</p>
                     </div>
-                    <div class="flex justify-self-auto items-baseline pt" id="cancel-btn">
-                        <button class="bg-gray-200 rounded-sm hover:bg-gray-400">close </button>
-                    </div>
+                                      
+                    
                 </div> 
                </div>
                {{-- POPUP END --}}
@@ -256,6 +249,8 @@
            </div>
 
 
+
+                {{-- CARD 5 --}}
            <div class="card">
                <span class="card-header">Soccer Platform</span>
                <img src="../images/soccerplatform.png" alt="" class="img-fluid">
@@ -263,8 +258,8 @@
 
                 {{-- POPUP --}}
 
-                <button class="rounded capitalize cursor-pointer hover:text-red-400 " id="show-content">read more</button>
-               <div class="bg-red-300 bg-opacity-50 absolute  inset-0  items-center hidden justify-center" id="overlay">
+                <button class="rounded capitalize cursor-pointer hover:text-red-400 " id="show-content5">read more</button>
+               <div class="bg-red-300 bg-opacity-50 absolute  inset-0  items-center hidden justify-center" id="overlay5">
                    <div class="bg-gray-600 bg-opacity-95 max-w-sm rounded shadow-xl h-full">
                     <div class=" flex justify-between items-center">
                         <div class="flex">
@@ -272,25 +267,23 @@
                                 <path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd" />
                                 
                               </svg>
-                              <h4 class="capitalize font-bold">south africa</h4>
+                              <h4 class="capitalize font-bold">UK</h4>
                         </div>
                         
                           
 
-                        <svg class="h-5 w-5 cursor-pointer hover:bg-gray-600" id="close-btn" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+                        <svg class="h-5 w-5 cursor-pointer hover:bg-gray-400 rounded" id="close-btn5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
                             <path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd" />
                           </svg>
                           
                     </div>
                     <div class="font-semibold">
                         <p >
-                            Betensured is one of the biggest operating football prediction website. It is the best source of well researched football statistics, analysis and predictions, sure 2 odds, sure 3 odds, football prediction site. They offer accurate predictions to enable their subscribers make substantial profit.There is a huge team behind the operations of this site, and there are hundreds if not thousands of football punters who come to this site on a daily basis in search of free tips. 
+                            soccer platform correct score Saturdays and Sundays are the best days to bet for correct score tips because there are a variety of games. 18 Football Prediction  
                         </p>
-                        <p class="pt-12"><span class="text-black font-bold">frequency:</span>8 free tips per day</p>
+                        <p class="mt-8"><span class="text-black font-bold">frequency:</span>4 free tips per day</p>
                     </div>
-                    <div class="flex justify-self-auto items-baseline pt" id="cancel-btn">
-                        <button class="bg-gray-200 rounded-sm hover:bg-gray-400">close </button>
-                    </div>
+                    
                 </div> 
                </div>
                {{-- POPUP END --}}
@@ -302,14 +295,16 @@
 
            
 
+
+                {{-- CARD 6 --}}
            <div class="card">
                <span class="card-header">Matchplug</span>
                <img src="../images/matchplug.jpg" alt="" class="img-fluid">
                <span class="span-text">Matchplug is the best football prediction site connecting bettors with winning tips. We are spot on in our Soccer predictions, champions league </span>
                 {{-- POPUP --}}
 
-                <button class="rounded capitalize cursor-pointer hover:text-red-400 " id="show-content">read more</button>
-               <div class="bg-red-300 bg-opacity-50 absolute  inset-0  items-center hidden justify-center" id="overlay">
+                <button class="rounded capitalize cursor-pointer hover:text-red-400 " id="show-content6">read more</button>
+               <div class="bg-red-300 bg-opacity-50 absolute  inset-0  items-center hidden justify-center" id="overlay6">
                    <div class="bg-gray-600 bg-opacity-95 max-w-sm rounded shadow-xl h-full">
                     <div class=" flex justify-between items-center">
                         <div class="flex">
@@ -317,25 +312,27 @@
                                 <path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd" />
                                 
                               </svg>
-                              <h4 class="capitalize font-bold">south africa</h4>
+                              <h4 class="capitalize font-bold">lagos</h4>
                         </div>
                         
                           
 
-                        <svg class="h-5 w-5 cursor-pointer hover:bg-gray-600" id="close-btn" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+                        <svg class="h-5 w-5 cursor-pointer hover:bg-gray-400 rounded" id="close-btn6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
                             <path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd" />
                           </svg>
                           
                     </div>
-                    <div class="font-semibold">
+                    <div class="font-semibold ">
                         <p >
-                            Betensured is one of the biggest operating football prediction website. It is the best source of well researched football statistics, analysis and predictions, sure 2 odds, sure 3 odds, football prediction site. They offer accurate predictions to enable their subscribers make substantial profit.There is a huge team behind the operations of this site, and there are hundreds if not thousands of football punters who come to this site on a daily basis in search of free tips. 
+                            Free Daily Predictions.
+                            Affordable Pricing Plans.
+                            Numerous Payment Channels.
+                            Match Analysis.
+                            Football, Tennis, NHL Predictions.
                         </p>
-                        <p class="pt-12"><span class="text-black font-bold">frequency:</span>8 free tips per day</p>
+                        <p class="mt-8"><span class="text-black font-bold">frequency:</span>8 free tips per day</p>
                     </div>
-                    <div class="flex justify-self-auto items-baseline pt" id="cancel-btn">
-                        <button class="bg-gray-200 rounded-sm hover:bg-gray-400">close </button>
-                    </div>
+                    
                 </div> 
                </div>
                {{-- POPUP END --}}               
@@ -345,6 +342,9 @@
            </div>
 
 
+
+
+                {{-- CARD 7 --}}
            <div class="card">
                <span class="card-header">1960tips</span>
                <img src="../images/1960tips.jpg" alt="" class="img-fluid">
@@ -352,8 +352,8 @@
 
                 {{-- POPUP --}}
 
-                <button class="rounded capitalize cursor-pointer hover:text-red-400 " id="show-content">read more</button>
-               <div class="bg-red-300 bg-opacity-50 absolute  inset-0  items-center hidden justify-center" id="overlay">
+                <button class="rounded capitalize cursor-pointer hover:text-red-400 " id="show-content7">read more</button>
+               <div class="bg-red-300 bg-opacity-50 absolute  inset-0  items-center hidden justify-center" id="overlay7">
                    <div class="bg-gray-600 bg-opacity-95 max-w-sm rounded shadow-xl h-full">
                     <div class=" flex justify-between items-center">
                         <div class="flex">
@@ -361,25 +361,26 @@
                                 <path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd" />
                                 
                               </svg>
-                              <h4 class="capitalize font-bold">south africa</h4>
+                              <h4 class="capitalize font-bold">unknown</h4>
                         </div>
                         
                           
 
-                        <svg class="h-5 w-5 cursor-pointer hover:bg-gray-600" id="close-btn" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+                        <svg class="h-5 w-5 cursor-pointer hover:bg-gray-400 rounded" id="close-btn7" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
                             <path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd" />
                           </svg>
                           
                     </div>
                     <div class="font-semibold">
                         <p >
-                            Betensured is one of the biggest operating football prediction website. It is the best source of well researched football statistics, analysis and predictions, sure 2 odds, sure 3 odds, football prediction site. They offer accurate predictions to enable their subscribers make substantial profit.There is a huge team behind the operations of this site, and there are hundreds if not thousands of football punters who come to this site on a daily basis in search of free tips. 
+                            For every friend you introduce to 1960Tips, you will get 10% cash of his/her subscription.
+                            Get monthly payment for participating in FAN GAME PAY!. <br>
+                            All visitors can see only our free daily tips. <br>
+                            Free members can access four(4) free market tips. 
                         </p>
-                        <p class="pt-12"><span class="text-black font-bold">frequency:</span>8 free tips per day</p>
+                        <p class="mt-8"><span class="text-black font-bold">frequency:</span>8 free tips per day</p>
                     </div>
-                    <div class="flex justify-self-auto items-baseline pt" id="cancel-btn">
-                        <button class="bg-gray-200 rounded-sm hover:bg-gray-400">close </button>
-                    </div>
+                    
                 </div> 
                </div>
                {{-- POPUP END --}}               
@@ -389,6 +390,9 @@
            </div>
 
 
+
+
+                {{-- CARD 8 --}}
            <div class="card">
                <span class="card-header">mightytips</span>
                <img src="../images/mightytips.jpg" alt="" class="img-fluid">
@@ -396,8 +400,8 @@
 
                 {{-- POPUP --}}
 
-                <button class="rounded capitalize cursor-pointer hover:text-red-400 " id="show-content">read more</button>
-               <div class="bg-red-300 bg-opacity-50 absolute  inset-0  items-center hidden justify-center" id="overlay">
+                <button class="rounded capitalize cursor-pointer hover:text-red-400 " id="show-content8">read more</button>
+               <div class="bg-red-300 bg-opacity-50 absolute  inset-0  items-center hidden justify-center" id="overlay8">
                    <div class="bg-gray-600 bg-opacity-95 max-w-sm rounded shadow-xl h-full">
                     <div class=" flex justify-between items-center">
                         <div class="flex">
@@ -410,20 +414,18 @@
                         
                           
 
-                        <svg class="h-5 w-5 cursor-pointer hover:bg-gray-600" id="close-btn" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+                        <svg class="h-5 w-5 cursor-pointer hover:bg-gray-400 rounded" id="close-btn8" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
                             <path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd" />
                           </svg>
                           
                     </div>
                     <div class="font-semibold">
                         <p >
-                            Betensured is one of the biggest operating football prediction website. It is the best source of well researched football statistics, analysis and predictions, sure 2 odds, sure 3 odds, football prediction site. They offer accurate predictions to enable their subscribers make substantial profit.There is a huge team behind the operations of this site, and there are hundreds if not thousands of football punters who come to this site on a daily basis in search of free tips. 
+                            With Might Tips & Predictions you can now access free betting tips for basketball, football, and nearly every competitive sport you 
                         </p>
-                        <p class="pt-12"><span class="text-black font-bold">frequency:</span>8 free tips per day</p>
+                        <p class="mt-8"><span class="text-black font-bold">frequency:</span>8 free tips per day</p>
                     </div>
-                    <div class="flex justify-self-auto items-baseline pt" id="cancel-btn">
-                        <button class="bg-gray-200 rounded-sm hover:bg-gray-400">close </button>
-                    </div>
+                   
                 </div> 
                </div>
                {{-- POPUP END --}}              
