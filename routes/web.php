@@ -22,3 +22,5 @@ Route::get('/prediction',[App\Http\Controllers\pagesController::class,'predictio
 Route::get('/bet',[App\Http\Controllers\pagesController::class,'bet'])->name('bet');
 Route::get('/stream',[App\Http\Controllers\pagesController::class,'stream'])->name('stream');
 Route::get('/odd',[App\Http\Controllers\pagesController::class,'odd'])->name('odd');
+Route::get('/contact', [App\Http\Controllers\EmailController::class, 'index']);
+Route::post('/sendemail/send', [App\Http\Controllers\EmailController::class, 'send']);

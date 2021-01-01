@@ -1,4 +1,4 @@
-<header class="bg-gray-800 lg:px-16 lg:py-0 py-2 flex flex-wrap items-center">
+<header class="bg-gray-800 lg:px-16 lg:py-0 flex flex-wrap items-center">
     <div class="flex flex-1 justify-between items-center ">
         <a href="">
             <svg class="w-12 h-10" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">

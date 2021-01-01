@@ -3,8 +3,15 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link href="css/app.css" rel="stylesheet">
         <title> {{config('app.name','Bet')}} </title>
+
+        
+        {{-- css --}}
+        <link href="css/app.css" rel="stylesheet">
+
+        {{-- js --}}
+        <link href="js/app.js" rel="stylesheet">
+        
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
@@ -24,11 +31,13 @@
         
     </head>
     <body class="antialiased text-gray-600  ">
-        <div>
+        <div class="pt-0">
          @include('inc.navbar')
              <main class="text-white bg-gray-900 ">    
                  @yield('content')
              </main> 
+         @include('inc.footer') 
+        </div> 
              <script>
 
                  window.addEventListener('DOMContentLoaded', ()=>{
@@ -219,8 +228,8 @@
 
                 
         </script>
-          @include('inc.footer')
+         
  
-       </div>
+       
     </body>
 </html>

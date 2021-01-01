@@ -30,7 +30,7 @@
     @apply bg-red-400 text-white uppercase font-bold border-2 border-white rounded-lg;
 }
 .section-title{
-    @apply flex justify-center text-white text-2xl font-bold uppercase mt-8 ;
+    @apply flex justify-center text-white text-2xl font-bold uppercase  ;
 }
 .form-group{
     @apply bg-white rounded-lg p-6;
