@@ -31251,14 +31251,6 @@ video {
 
 .nav-link{
   border-color: transparent;
-}
-
-.nav-link:hover {
-  --tw-border-opacity: 1;
-  border-color: rgba(99, 102, 241, var(--tw-border-opacity));
-}
-
-.nav-link {
   border-bottom-width: 2px;
   display: block;
   padding-left: 0px;
@@ -31277,6 +31269,11 @@ video {
 }
 
 @media (min-width: 1024px) {
+  .nav-link:hover {
+    --tw-border-opacity: 1;
+    border-color: rgba(99, 102, 241, var(--tw-border-opacity));
+  }
+
   .nav-link {
     padding: 1rem;
   }

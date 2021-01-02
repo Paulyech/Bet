@@ -4,7 +4,7 @@
 <div class="pb-8" style="background-image: url('../images/background.jpg');min-height:100vh;background-repeat:no-repeat;background-size:cover;background-position:center">
 
     {{-- PAGE HEADER --}}
-    <div class=" bg-gradient-to-r from-gray-300 via-gray-500 to-gray-700 flex flex-wrap justify-center items-center">
+    <div class=" bg-gradient-to-r from-gray-300 via-gray-500 to-gray-700 flex flex-wrap justify-center items-center px-12">
             <h1 class=" uppercase font-bold text-4xl mt-8">popular betting sites</h1>
             <p class="text-lg md:mx-36 pb-8">Searching for the best betting sites in the country?well well,you are in the right place at the right time.we are determined to provide you,our esteemed fan a summrry review of the best sites and of course later on you can choose one that satisfies your needs</p>
         

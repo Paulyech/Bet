@@ -24,7 +24,7 @@
     @apply  w-full text-xs rounded-full uppercase py-2 px-3 font-bold cursor-pointer tracking-wide ;
 }
 .nav-link{
-    @apply lg:p-4 py-3 px-0 border-b-2 border-transparent block hover:border-indigo-500 capitalize hover:text-white;
+    @apply lg:p-4 py-3 px-0 border-b-2 border-transparent block lg:hover:border-indigo-500 capitalize hover:text-white;
 }
 .project-title{
     @apply bg-red-400 text-white uppercase font-bold border-2 border-white rounded-lg;

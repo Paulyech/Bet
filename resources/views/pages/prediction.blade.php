@@ -1,10 +1,10 @@
 @extends('layouts.app')
 
 @section('content')
-    <div class="pb-8" style="background-image: url('../images/background2.jpg');min-height:100vh;background-repeat:no-repeat;background-size:cover;background-position:center">
+    <div class="pb-8 " style="background-image: url('../images/background2.jpg');min-height:100vh;background-repeat:no-repeat;background-size:cover;background-position:center">
 
         {{-- PAGE HEADER --}}
-        <div class=" bg-gradient-to-r from-gray-300 via-gray-500 to-gray-700 flex flex-wrap justify-center items-center">
+        <div class=" bg-gradient-to-r from-gray-300 via-gray-500 to-gray-700 flex flex-wrap justify-center items-center px-12">
             <h1 class=" uppercase font-bold text-4xl pt-8">popular prediction sites</h1>
             <p class="text-lg md:mx-36 pb-8">Perhaps you might be in need of guidance before placing a bet,we got you covered pal.We provide a shortcut to the best prediction sites,tested an dproven</p>
         
