@@ -1,7 +1,10 @@
 require('./bootstrap');
 
 
+
+
 window.addEventListener('DOMContentLoaded', ()=>{
+ 
     const showContent = document.querySelector('#show-content');
     const overlay = document.querySelector('#overlay');
     const closeBtn = document.querySelector('#close-btn');

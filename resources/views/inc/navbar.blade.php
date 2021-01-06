@@ -1,7 +1,7 @@
 <header class="bg-gray-800 lg:px-16 lg:py-0 flex flex-wrap items-center">
     <div class="flex flex-1 justify-between items-center ">
         <a href="">
-            <img src="../images/logo.png" alt="logo" class="w-20 h-20 p-0">
+            <img src="../images/logo1.png" alt="logo" class="w-20 h-20 p-0">
         </a>
     </div>
 
