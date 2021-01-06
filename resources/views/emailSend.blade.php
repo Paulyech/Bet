@@ -7,8 +7,8 @@
     </div>
     
 
-    <div class="grid sm:grid-cols-2  mx-auto mt-8 pb-8">
-        <div class="lg:ml-60 w-full lg:w-80">
+    <div class="sm:flex sm:justify-center py-12 ">
+        <div class="flex flex-wrap justify-center">
             
                 @if (count($errors) > 0)
                 <div class="alert bg-red-400  flex justify-between items-center">
@@ -55,7 +55,7 @@
             </form>
         </div>
 
-        <div class="pl-12 w-96">
+        <div class="pl-12 ">
             <div>
                 <svg class="w-5 inline-block"  xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
